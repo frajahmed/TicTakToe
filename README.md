@@ -11,14 +11,14 @@ If you wish to play again, just click anywhere on the result screen.
 
 The two libraries, Numpy and tkinter, were used for specific reasons in the implementation of the Tic Tac Toe game:
 
-## Numpy:
+## 1. Numpy:
 
 Numpy is a powerful Python library that efficiently handles arrays and matrices.
 In this case, Numpy was utilized to create and manage the 3x3 game board.
 Numpy arrays facilitate easy indexing and iteration, making it convenient for checking for a win and verifying if the board is full.
 It helps make the code more efficient and concise by simplifying mathematical and index operations.
 
-## Tkinter:
+## 2. Tkinter:
 
 Tkinter is the standard package for creating graphical user interfaces in Python.
 It provides an easy way to create windows, widgets, and user interactions.
